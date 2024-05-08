@@ -12,7 +12,7 @@ Aqui você encontrará:
 
 ## Minha Jornada 🌱
 
-Estou começando a aprender Python por [insira o motivo, por exemplo, interesse em ciência de dados, desenvolvimento web, automação, etc.]. Meu objetivo é me tornar proficiente o suficiente para [insira seu objetivo, por exemplo, desenvolver aplicativos, criar scripts automatizados, etc.].
+Estou começando a aprender Python por [automação e ia]. Meu objetivo é me tornar proficiente o suficiente para [desenvolver aplicativos e criar scripts automatizados, etc.].
 
 ## Como Contribuir 🤝
 
