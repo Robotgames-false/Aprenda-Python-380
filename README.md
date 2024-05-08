@@ -30,6 +30,22 @@ Aqui estão alguns dos recursos que estou usando para aprender Python:
 
 Se quiser entrar em contato, me mande um e-mail para [seu e-mail] ou me encontre no [seu perfil de mídia social, GitHub, etc.].
 
+
+## Instalar Python no Windows
+
+1. **Baixar Python**: Faça o download da versão mais recente do Python em [python.org](https://www.python.org/downloads/).
+2. **Instalar Python**: Durante a instalação, marque a opção "Add Python to PATH".
+3. **Verificar Instalação**: Após a instalação, abra o Prompt de Comando ou PowerShell e digite `python --version` (ou `python3 --version`). Se você vê a versão do Python, a instalação foi bem-sucedida.
+
+## Criar um Arquivo Python
+
+1. **Abra um Editor de Texto**: Pode ser o Notepad, Notepad++, Sublime Text, ou outro de sua preferência.
+2. **Escreva o Código Python**: Um exemplo simples seria:
+
+   ```python
+   print("Olá, mundo!")
+   ```
+
 ---
 
 Obrigado por visitar o meu repositório! Espero que este espaço seja útil para quem está aprendendo Python ou para quem busca inspiração para começar sua própria jornada de aprendizado.
