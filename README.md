@@ -5,6 +5,7 @@ Bem-vindo ao meu repositório "Aprenda Python"! Este é um espaço onde comparti
 ## Conteúdo 🗂️
 
 Aqui você encontrará:
+
 - **Anotações e Resumos**: Resumos dos tópicos que estou estudando.
 - **Exemplos de Código**: Exemplos práticos para ilustrar conceitos importantes.
 - **Projetos Práticos**: Projetos nos quais estou trabalhando para aplicar o que aprendi.
@@ -21,15 +22,15 @@ Se você quiser contribuir para este repositório ou tiver sugestões para o meu
 ## Recursos e Referências 📚
 
 Aqui estão alguns dos recursos que estou usando para aprender Python:
-- [Curso XYZ](link do curso)
-- [Livro ABC](link do livro)
+
+- [Microsoft Learn](https://learn.microsoft.com/pt-br/training/paths/beginner-python/)
+- [apostila-python-orientacao-a-objetos](https://www.caelum.com.br/apostila/.pdf)
 - [Documentação Oficial do Python](https://docs.python.org/3/)
 - [Python para Iniciantes](link do recurso)
 
 ## Contato 📧
 
 Se quiser entrar em contato, me mande um e-mail para [seu e-mail] ou me encontre no [seu perfil de mídia social, GitHub, etc.].
-
 
 ## Instalar Python no Windows
 
