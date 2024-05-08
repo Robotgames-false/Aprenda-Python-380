@@ -10,6 +10,7 @@ Aqui você encontrará:
 - **Exemplos de Código**: Exemplos práticos para ilustrar conceitos importantes.
 - **Projetos Práticos**: Projetos nos quais estou trabalhando para aplicar o que aprendi.
 - **Recursos Úteis**: Links e referências para recursos externos que achei úteis no meu aprendizado.
+- **Mais**: Algumas anotações a mais e aleatorias.
 
 ## Minha Jornada 🌱
 
