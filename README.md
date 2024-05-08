@@ -13,6 +13,7 @@ Aqui você encontrará:
 - **Mais**: Algumas anotações a mais e aleatorias.
 
 ## Minha Jornada 🌱
+[Introdução ao Python: Elementos Básicos](https://github.com/elisioMassaqui/Aprenda-Python/blob/main/intro.md)
 
 Estou começando a aprender Python por [automação e ia]. Meu objetivo é me tornar proficiente o suficiente para [desenvolver aplicativos e criar scripts automatizados, etc.].
 
