@@ -52,13 +52,5 @@ Se quiser entrar em contato, me mande um e-mail para [seu e-mail] ou me encontre
    ```
 
 ---
-Boolean
-![.](https://github.com/elisioMassaqui/Aprenda-Python/blob/main/boolean%20in%20python.png)
----
-Comparação
-![.](https://github.com/elisioMassaqui/Aprenda-Python/blob/main/compara%C3%A7%C3%A3o%20python.png)
----
-Matemática
-![](https://github.com/elisioMassaqui/Aprenda-Python/blob/main/math%20in%20python.png)
----
+
 Obrigado por visitar o meu repositório! Espero que este espaço seja útil para quem está aprendendo Python ou para quem busca inspiração para começar sua própria jornada de aprendizado.
