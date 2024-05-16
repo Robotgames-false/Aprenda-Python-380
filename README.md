@@ -13,7 +13,9 @@ Aqui você encontrará:
 - **Mais**: Algumas anotações a mais e aleatorias.
 
 ## Minha Jornada 🌱
-[Introdução ao Python: Elementos Básicos](https://github.com/elisioMassaqui/Aprenda-Python/blob/main/intro.md)
+- [Introdução ao Python: Elementos Básicos](https://github.com/elisioMassaqui/Aprenda-Python/blob/main/intro.md)
+  
+- [Alguns exemplos testando o extensão CodeRunner do VSCode](https://github.com/elisioMassaqui/Aprenda-Python/blob/main/tempCodeRunnerFile.py)
 
 Estou começando a aprender Python por [automação e ia]. Meu objetivo é me tornar proficiente o suficiente para [desenvolver aplicativos e criar scripts automatizados, etc.].
 
@@ -29,7 +31,6 @@ Aqui estão alguns dos recursos que estou usando para aprender Python:
   
 - [apostila-python-orientacao-a-objetos](https://www.caelum.com.br/apostila/.pdf)
 - [Documentação Oficial do Python](https://docs.python.org/3/)
-- [Python para Iniciantes](link do recurso)
 
 ## Contato 📧
 
