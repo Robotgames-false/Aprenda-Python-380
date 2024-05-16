@@ -16,7 +16,7 @@ Aqui você encontrará:
 - [Introdução ao Python: Elementos Básicos](https://github.com/elisioMassaqui/Aprenda-Python/blob/main/intro.md)
   
 - [Alguns exemplos testando o extensão CodeRunner do VSCode](https://github.com/elisioMassaqui/Aprenda-Python/blob/main/tempCodeRunnerFile.py)
-- [Mias](https://github.com/elisioMassaqui/Aprenda-Python/blob/main/mais.md)
+- [Mais](https://github.com/elisioMassaqui/Aprenda-Python/blob/main/mais.md)
 
 Estou começando a aprender Python por [automação e ia]. Meu objetivo é me tornar proficiente o suficiente para [desenvolver aplicativos e criar scripts automatizados, etc.].
 
