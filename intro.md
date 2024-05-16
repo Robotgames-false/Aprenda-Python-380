@@ -37,7 +37,6 @@ Um exemplo simples de uma classe e como criar e usar um objeto.
 
 Um bloco `try-except` para capturar uma exceção de divisão por zero.
 
-
 ```python
 # 1. Variáveis
 x = 10
