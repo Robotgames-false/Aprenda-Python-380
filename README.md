@@ -26,6 +26,7 @@ Se você quiser contribuir para este repositório ou tiver sugestões para o meu
 Aqui estão alguns dos recursos que estou usando para aprender Python:
 
 - [Microsoft Learn](https://learn.microsoft.com/pt-br/training/paths/beginner-python/)
+  
 - [apostila-python-orientacao-a-objetos](https://www.caelum.com.br/apostila/.pdf)
 - [Documentação Oficial do Python](https://docs.python.org/3/)
 - [Python para Iniciantes](link do recurso)
