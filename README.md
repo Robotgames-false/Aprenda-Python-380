@@ -17,6 +17,7 @@ Aqui você encontrará:
   
 - [Alguns exemplos testando o extensão CodeRunner do VSCode](https://github.com/elisioMassaqui/Aprenda-Python/blob/main/tempCodeRunnerFile.py)
 - [Mais](https://github.com/elisioMassaqui/Aprenda-Python/blob/main/mais.md)
+- [Tipos de dados em Python](https://github.com/elisioMassaqui/Aprenda-Python/blob/main/tipos.md)
 
 Estou começando a aprender Python por [automação e ia]. Meu objetivo é me tornar proficiente o suficiente para [desenvolver aplicativos e criar scripts automatizados, etc.].
 
