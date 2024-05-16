@@ -8,12 +8,3 @@ Quando você executa a opção que apenas diz "Python", geralmente está abrindo
 
 Python IDLE:
 IDLE (Integrated Development and Learning Environment) é um ambiente de desenvolvimento integrado que vem junto com a instalação padrão do Python. Ele oferece uma interface gráfica que facilita a criação e execução de scripts Python. IDLE é especialmente útil para iniciantes, pois possui recursos como auto-completar, depuração integrada, e um modo interativo mais amigável, onde você pode testar comandos rapidamente e ver o resultado em tempo real.
-
-- Boolean
-- ![.](https://github.com/elisioMassaqui/Aprenda-Python/blob/main/boolean%20in%20python.png)
-
-- Comparação
-- ![.](https://github.com/elisioMassaqui/Aprenda-Python/blob/main/compara%C3%A7%C3%A3o%20python.png)
-
-- Matemática
-- ![](https://github.com/elisioMassaqui/Aprenda-Python/blob/main/math%20in%20python.png)
