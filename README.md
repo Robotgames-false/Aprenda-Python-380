@@ -13,6 +13,7 @@ Aqui você encontrará:
 - **Mais**: Algumas anotações a mais e aleatorias.
 
 ## Minha Jornada 🌱
+
 - [Introdução ao Python: Elementos Básicos](https://github.com/elisioMassaqui/Aprenda-Python/blob/main/intro.md)
   
 - [Alguns exemplos testando o extensão CodeRunner do VSCode](https://github.com/elisioMassaqui/Aprenda-Python/blob/main/tempCodeRunnerFile.py)

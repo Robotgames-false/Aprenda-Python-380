@@ -132,6 +132,7 @@ except ZeroDivisionError:
     print("Erro: Não é possível dividir por zero.")
 
 ```
+
 - Boolean
 - ![.](https://github.com/elisioMassaqui/Aprenda-Python/blob/main/boolean%20in%20python.png)
 
