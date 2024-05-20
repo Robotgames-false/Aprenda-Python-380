@@ -54,6 +54,21 @@ Se quiser entrar em contato, me mande um e-mail para [seu e-mail] ou me encontre
    print("Olá, mundo!")
    ```
 
+   ***Guia Definitivo:***
+   -Funções
+   -Tratamento de erros
+   -Entrada e saída
+   -Programação orientada a objectos
+   -Manipulação de strings
+   -Expressões regulares(regex)
+   -Datas e horas
+   -Trabalhando com APIs
+   -Banco de dados
+   -Testes unitários
+   -Ambientes virtuais
+   -Documentação e boas práticas
+   -Projectos praticos
+
 ---
 
 Obrigado por visitar o meu repositório! Espero que este espaço seja útil para quem está aprendendo Python ou para quem busca inspiração para começar sua própria jornada de aprendizado.
